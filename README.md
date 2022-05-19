@@ -27,4 +27,6 @@
   
 ###
   
+  ![Snake animation](https://github.com/jppadilha1/jppadilha1/blob/output/github-contribution-grid-snake.svg)
+  
   
