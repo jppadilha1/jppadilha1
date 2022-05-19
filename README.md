@@ -27,5 +27,5 @@
 ###
   
 <div>
-  <img align="center" alt="João-pic" height="170" width="30%" style="border-radius:50px;" src="https://media4.giphy.com/media/VFHa3Kg39gFLVbinN1/giphy.gif?cid=ecf05e47p7n434aw2lr5dhd3ocsrhc6uhdwy9ubt3yzu1e4z&rid=giphy.gif&ct=g">
+  <img align="center" alt="João-pic" height="170" width="30%" style="border-radius:50px;" src="https://media2.giphy.com/media/BMu2SwuXflOlQP8jTC/giphy.gif?cid=ecf05e47a1khu4bagtxyzr1412piw4ugj0r995w7w2he2ocy&rid=giphy.gif&ct=g">
 </div>
