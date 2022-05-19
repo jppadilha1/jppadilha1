@@ -13,9 +13,10 @@
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="João-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="right" alt="João-pic" height="170" width="25%" style="border-radius:50px;" src="https://i.pinimg.com/originals/40/40/20/404020cba13d4f6bd6ce65ba8686b5b9.jpg">
 </div>
   
-###
+###  
  
 <div> 
   <a href="https://instagram.com/joaopadilha28" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,6 +27,4 @@
   
 ###
   
-<div>
-  <img align="center" alt="João-pic" height="170" width="30%" style="border-radius:50px;" src="https://media2.giphy.com/media/BMu2SwuXflOlQP8jTC/giphy.gif?cid=ecf05e47a1khu4bagtxyzr1412piw4ugj0r995w7w2he2ocy&rid=giphy.gif&ct=g">
-</div>
+  
