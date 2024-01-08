@@ -1,6 +1,6 @@
 ### Olá !! eu sou o João Pedro Padilha 💪
 
-•📚 Cursando Ciências da Computação 
+•📚 Student at CEFET-MG, Sistemas da Informação
 
 <div align="center">
   <a href="https://github.com/jppadilha1">
