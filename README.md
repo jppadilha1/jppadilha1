@@ -1,6 +1,8 @@
-### Olá !! eu sou o João Pedro Padilha 💪
-
-•📚 Student at CEFET-MG, Sistemas da Informação
+### Hello!! I´m João Pedro Padilha 😁
+<ul>
+  <li>20y</li>
+  <li>📚 Student at CEFET-MG, Sistemas da Informação</li>
+</ul><hr>
 
 <div align="center">
   <a href="https://github.com/jppadilha1">
