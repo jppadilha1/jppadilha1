@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm João Pedro Padilha</h1>
+<h1 align="center">What's up! I'm João Pedro Padilha</h1>
 
 <p align="center">
   🚀 Enthusiast of Web Development and Backend Engineering<br>
