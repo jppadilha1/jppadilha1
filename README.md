@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z0OWN1MG5lOG8yYXR5eWp0NTF0aWN2c2MyczlwaG1qMHdrM2FjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="80"/>
+</p>
 <h1 align="center">What's up! I'm João Pedro Padilha</h1>
 
 <p align="center">
