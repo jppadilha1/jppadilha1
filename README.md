@@ -5,7 +5,7 @@
 <h1 align="center">What's up! I'm João Pedro Padilha</h1>
 
 <p align="center">
-  🚀 Enthusiast of Web Development and Backend Engineering<br>
+   🚀 Aspiring Full-Stack - Building complete applications<br>
   🎓 Student at CEFET-MG - Sistemas da Informação, Campus - Varginha
 </p>
 
