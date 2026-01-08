@@ -1,7 +1,5 @@
 <img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&color=ADEBB3&section=header%22'><img/>
-<p align="center">
-  <img src="gif.gif" width="120"/>
-</p>
+
 <h1 align="center">What's up! I'm João Pedro Padilha</h1>
 
 <p align="center">
